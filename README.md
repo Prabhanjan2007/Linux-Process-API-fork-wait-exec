@@ -56,11 +56,11 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
-
-
-
+<img width="799" height="589" alt="q11" src="https://github.com/user-attachments/assets/27e16294-d119-4003-8fb8-99902bbdac5d" />
+<img width="810" height="576" alt="q12" src="https://github.com/user-attachments/assets/50e2f59a-83d5-46a6-85c9-0972ace1f83b" />
+<img width="915" height="506" alt="q2" src="https://github.com/user-attachments/assets/11f417d7-ec94-4d64-b991-ae73280540a9" />
 
 
 
@@ -137,10 +137,7 @@ int main() {
 ##OUTPUT
 
 
-
-
-
-
+<img width="915" height="506" alt="q2" src="https://github.com/user-attachments/assets/fad25973-e456-4850-8186-df9d0bb47309" />
 
 
 
